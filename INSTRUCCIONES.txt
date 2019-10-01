@@ -1,0 +1,5 @@
+Poner la carpeta (bd-albestrain) en el disco local C (dirección que uso)-> C:/bd-albestrain/usuarios
+Comandos:
+/privado nombreDeUsuario(destinatario) Mensaje -> Mandar mensajes privados
+/bloquear nombreDeUsuario -> Para bloquear a alguien
+/desbloquear nombreDeUsuario -> Para desbloquear
